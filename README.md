@@ -29,6 +29,6 @@ Personalization is becoming increasingly more important in creating a curated e-
 
 
 #<a name="acks"></a>Acknowledgements
-We would like to thank Dr.Diane Hu, Dr. Rob Hall.
+I would like to thank Dr.Diane J Hu, Dr.Rob Hall for providing some slides. I would also thank amazing Etsy staff for providing feedback on this talk.
 
  
