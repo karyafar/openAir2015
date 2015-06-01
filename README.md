@@ -26,7 +26,8 @@ Personalization is becoming increasingly more important in creating a curated e-
 
 #<a name="tools"></a>Tools
 * https://github.com/etsy/Conjecture
-* 
+
+
 #<a name="acks"></a>Acknowledgements
 We would like to thank Dr.Diane Hu, Dr. Rob Hall.
 
