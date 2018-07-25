@@ -10,13 +10,13 @@
 * [Acknowledgements](#acks)
 
 
-#<a name="abstract"></a>Talk Abstract
+# <a name="abstract"></a>Talk Abstract
 Personalization is becoming increasingly more important in creating a curated e-commerce experience for consumers. Machine learning methods are the cornerstone of recommendation engines that are used to personalize a browsing and shopping experience in an online market place. Etsy is an online market place for artisans selling unique handcrafted good, and vintage wares that couldn’t be found elsewhere. Kamelia has spent the last two years building recommendations in Etsy. She’ll discuss the machine learning models behind user, shop and listing recommendations that create a personalized experience for Etsy users.
 
-#<a name="presenters"></a>Presenters
+# <a name="presenters"></a>Presenters
 * "Kamelia Aryafar" <karyafar@etsy.com>
 
-#<a name="refs"></a>References
+# <a name="refs"></a>References
 * [Hu, Diane J., Rob Hall, and Josh Attenberg. "Style in the long tail: discovering unique interests with latent variable models in large scale social E-commerce." Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2014.](http://dl.acm.org/citation.cfm?id=2623338)
 * [Hall, Rob, and Josh Attenberg. "Fast and Accurate Maximum Inner Product Recommendations on Map-Reduce." Proceedings of the 24th International Conference on World Wide Web Companion. International World Wide Web Conferences Steering Committee, 2015.](http://dl.acm.org/citation.cfm?id=2742000)
 * [Hu, Diane, and Tristan Schneiter. "Targeted Content for a Real-Time Activity Feed: For First Time Visitors to Power Users." Proceedings of the 24th International Conference on World Wide Web Companion. International World Wide Web Conferences Steering Committee, 2015.](http://dl.acm.org/citation.cfm?id=2742002)
@@ -24,11 +24,11 @@ Personalization is becoming increasingly more important in creating a curated e-
 * [Personalized Recommendations at Etsy ,Rob Hall](https://codeascraft.com/2014/11/17/personalized-recommendations-at-etsy/)
 
 
-#<a name="tools"></a>Tools
+# <a name="tools"></a>Tools
 * https://github.com/etsy/Conjecture
 
 
-#<a name="acks"></a>Acknowledgements
+# <a name="acks"></a>Acknowledgements
 I would like to thank Dr.Diane J Hu, Dr.Rob Hall for providing some slides. I would also thank amazing Etsy staff for providing feedback on this talk.
 
  
